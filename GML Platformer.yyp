@@ -4,6 +4,7 @@
   "name": "GML Platformer",
   "resources": [
     {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},"order":2,},
+    {"id":{"name":"spr_blank","path":"sprites/spr_blank/spr_blank.yy",},"order":12,},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":3,},
     {"id":{"name":"spr_playerR","path":"sprites/spr_playerR/spr_playerR.yy",},"order":9,},
     {"id":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},"order":3,},
@@ -18,7 +19,9 @@
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":7,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":6,},
     {"id":{"name":"spr_playerA","path":"sprites/spr_playerA/spr_playerA.yy",},"order":5,},
+    {"id":{"name":"fnt_menubig","path":"fonts/fnt_menubig/fnt_menubig.yy",},"order":1,},
     {"id":{"name":"spr_grain","path":"sprites/spr_grain/spr_grain.yy",},"order":10,},
+    {"id":{"name":"obj_text","path":"objects/obj_text/obj_text.yy",},"order":6,},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":1,},
     {"id":{"name":"spr_invisiblewall","path":"sprites/spr_invisiblewall/spr_invisiblewall.yy",},"order":2,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
