@@ -61,3 +61,9 @@ else
 }
 
 if (hsp !=0) image_xscale = sign(hsp);
+
+//Respawning
+
+if(x > room_width) || (x < 0) || (y > room_height) || (y < 0) {
+    room_restart();
+}
