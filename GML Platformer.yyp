@@ -10,6 +10,7 @@
     {"id":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},"order":3,},
     {"id":{"name":"fnt_menu","path":"fonts/fnt_menu/fnt_menu.yy",},"order":0,},
     {"id":{"name":"spr_button","path":"sprites/spr_button/spr_button.yy",},"order":11,},
+    {"id":{"name":"spr_level","path":"sprites/spr_level/spr_level.yy",},"order":13,},
     {"id":{"name":"obj_button_play","path":"objects/obj_button_play/obj_button_play.yy",},"order":4,},
     {"id":{"name":"RoomMenu","path":"rooms/RoomMenu/RoomMenu.yy",},"order":1,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
@@ -22,7 +23,9 @@
     {"id":{"name":"fnt_menubig","path":"fonts/fnt_menubig/fnt_menubig.yy",},"order":1,},
     {"id":{"name":"spr_grain","path":"sprites/spr_grain/spr_grain.yy",},"order":10,},
     {"id":{"name":"obj_text","path":"objects/obj_text/obj_text.yy",},"order":6,},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":2,},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":1,},
+    {"id":{"name":"obj_room_switch","path":"objects/obj_room_switch/obj_room_switch.yy",},"order":7,},
     {"id":{"name":"spr_invisiblewall","path":"sprites/spr_invisiblewall/spr_invisiblewall.yy",},"order":2,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
@@ -49,6 +52,7 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"RoomMenu","path":"rooms/RoomMenu/RoomMenu.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "Folders": [
