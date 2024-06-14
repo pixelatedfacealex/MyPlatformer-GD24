@@ -1,14 +1,10 @@
 {
-  "resourceType": "GMObject",
-  "resourceVersion": "1.0",
-  "name": "obj_button_quit",
   "spriteId": {
     "name": "spr_button",
     "path": "sprites/spr_button/spr_button.yy",
   },
   "solid": false,
   "visible": true,
-  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
@@ -28,14 +24,18 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,},
+    {"isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","propertyId":{"name":"button_text","path":"objects/obj_button_parent/obj_button_parent.yy",},"objectId":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},"value":"quit",},
+    {"propertyId":{"name":"button_text","path":"objects/obj_button_parent/obj_button_parent.yy",},"objectId":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},"value":"quit","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
     "name": "Objects",
     "path": "folders/Objects.yy",
   },
+  "resourceVersion": "1.0",
+  "name": "obj_button_quit",
+  "tags": [],
+  "resourceType": "GMObject",
 }

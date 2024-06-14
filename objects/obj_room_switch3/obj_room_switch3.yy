@@ -28,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_room_switch",
+  "name": "obj_room_switch3",
   "tags": [],
   "resourceType": "GMObject",
 }

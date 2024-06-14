@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_level",
-    "path": "sprites/spr_level/spr_level.yy",
+    "name": "spr_blank",
+    "path": "sprites/spr_blank/spr_blank.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,15 +20,19 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
-  "properties": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+  "properties": [
+    {"varType":2,"value":"Finished! Return walking right!","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"button_text","tags":[],"resourceType":"GMObjectProperty",},
+  ],
   "overriddenProperties": [],
   "parent": {
     "name": "Objects",
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_room_switch",
+  "name": "obj_text2",
   "tags": [],
   "resourceType": "GMObject",
 }

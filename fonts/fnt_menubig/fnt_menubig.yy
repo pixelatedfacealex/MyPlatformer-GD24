@@ -1,7 +1,4 @@
 {
-  "resourceType": "GMFont",
-  "resourceVersion": "1.0",
-  "name": "fnt_menubig",
   "hinting": 0,
   "glyphOperations": 0,
   "interpreter": 0,
@@ -24,7 +21,6 @@
     "path": "texturegroups/Default",
   },
   "ascenderOffset": 0,
-  "ascender": 104,
   "glyphs": {
     "32": {"x":2,"y":2,"w":32,"h":142,"character":32,"shift":32,"offset":0,},
     "33": {"x":1074,"y":290,"w":27,"h":142,"character":33,"shift":48,"offset":11,},
@@ -799,4 +795,8 @@
     "name": "Fonts",
     "path": "folders/Fonts.yy",
   },
+  "resourceVersion": "1.0",
+  "name": "fnt_menubig",
+  "tags": [],
+  "resourceType": "GMFont",
 }
